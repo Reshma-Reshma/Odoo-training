@@ -1,0 +1,2 @@
+# Odoo-training
+Odoo Training
